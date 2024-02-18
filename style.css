@@ -1,0 +1,69 @@
+.navtopp {
+    position: fixed;
+}
+
+.sec2 {
+    text-align: center;
+    height: 550px;
+
+    background-image: url(appleimg.png);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.sec3 {
+    /* background-color: #F5F5F7; */
+    text-align: center;
+    height: 550px;
+
+    background-image: url(appleimg2.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/* .sec4 {
+    
+    text-align: center;
+    height: 300px;
+    margin-bottom: 00px;
+
+    background-image: url(sec3img2.png);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+} */
+
+
+
+
+.ih1 {
+    font-size: 60px;
+}
+
+
+.navlink {
+    font-size: 30px;
+    color: rgb(55, 55, 241);
+}
+
+.navlink4 {
+    font-size: 40px;
+    color: rgb(5, 5, 109) !important;
+
+    margin-top: 387px;
+}
+
+.lsfoot{
+    background-color: #F5F5F7;
+    
+}
+
+.ulleft{
+    margin-left: 100px;
+}
+
+ul {
+    list-style: none;
+}
